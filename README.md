@@ -21,7 +21,7 @@ This is a ReactJs project made with reactjs, chakraui and other packages. The li
 First, run the development server:
 
 ```bash
-git clone https://github.com/S-Tentacion/LM_EXCHANGE.git
+git clone https://github.com/S-Tentacion/FLYTBASE.git
 cd LM_EXCHANGE
 npm install
 #or

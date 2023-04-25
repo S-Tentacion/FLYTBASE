@@ -14,7 +14,7 @@ This is a flytbase app, created by and maintained by [shubham](https://github.co
 
 ## Demo
 
-This is a ReactJs project made with reactjs, chakraui and other packages. The link to the live deployment of APIs can be found [here](https://lm-exchange.onrender.com).
+This is a ReactJs project made with reactjs, chakraui and other packages. The link to the live deployment of APIs can be found [here](https://flytbase.vercel.app/).
 
 ## Installation
 
@@ -22,7 +22,7 @@ First, run the development server:
 
 ```bash
 git clone https://github.com/S-Tentacion/FLYTBASE.git
-cd LM_EXCHANGE
+cd FLYTBASE
 npm install
 #or
 npm install --legacy-peer-deps
